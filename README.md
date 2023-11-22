@@ -7,6 +7,7 @@ https://arxiv.org/pdf/2307.10603.pdf
 
 <img width="864" alt="image" src="https://github.com/VITA-Group/PiRN/assets/6660499/54c09a4a-9ac0-4df9-b04f-c1f53d4e5133">
 
+Test with some of our trained models at: https://utexas.app.box.com/s/79d7gk18fwab7lhc3p4xpi6s1amiyua5
 ## Citation
 
 If you find our work helpful for your own research or work, please cite our paper.
